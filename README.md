@@ -14,7 +14,7 @@
 
 ---
 
-## <center>🩻 Image Processing Stack 🩻</center>
+## <center>🩻 Image Processing Stack 🩻
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=E8E8E8"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=E8E8E8"/>

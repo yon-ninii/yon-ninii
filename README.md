@@ -14,7 +14,7 @@
 
 ---
 
-## 🩻 Image Processing Stack 🩻
+## <center>🩻 Image Processing Stack 🩻</center>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=E8E8E8"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=E8E8E8"/>
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=E8E8E8"/>
 </p>
 
-## 🧠 Deep Learning Stack 🧠 
+## <center>🧠 Deep Learning Stack 🧠 </center>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat&logo=scikit-learn&logoColor=E8E8E8"/>
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=E8E8E8"/>
 </p>
 
-## 🖥 Software Stack 🖥
+## <center>🖥 Software Stack 🖥</center>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=E8E8E8"/>
@@ -40,7 +40,7 @@
 </p>
 
 
-## 🛠 Tools 🛠
+## <center>🛠 Tools 🛠</center>
 
 <p align="center">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=E8E8E8"/>
